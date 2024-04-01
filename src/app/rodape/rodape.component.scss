@@ -1,0 +1,16 @@
+footer {
+    width: 100%;
+    height: 80px;
+    background-color: orange;
+    color: black;
+        .container{
+            width: 1140px;
+            display: flex;
+            margin: auto;
+            .copyright {
+                p{
+                    padding-top: 10px;
+                }
+            }
+        }
+}
